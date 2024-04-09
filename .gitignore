@@ -1,0 +1,5 @@
+output/
+*.exe
+in/
+*.pyc
+*.jpg
