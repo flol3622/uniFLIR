@@ -1,5 +1,7 @@
 output/
+__pycache__
 *.exe
 in/
 *.pyc
 *.jpg
+.venv/
